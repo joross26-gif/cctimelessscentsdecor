@@ -1,0 +1,45 @@
+{
+  "brandName": "Cctimeless scents&decor",
+  "tagline": "Scented. Styled. Timeless.",
+  "shortBio": "Luxury sculptural candles and clean home decor pieces\u2014handcrafted in Lagos for women who love statement interiors.",
+  "location": "Lagos, Nigeria",
+  "currency": {
+    "symbol": "\u20a6",
+    "code": "NGN"
+  },
+  "social": {
+    "instagramHandle": "cc_timeless_scents_decor",
+    "tiktokHandle": "cc_timeless_scents_decor",
+    "instagramUrl": "https://instagram.com/@cc_timeless_scents_decor?igsh=ZGdsNWxzanAyaDJn",
+    "tiktokUrl": "https://tiktok.com/@cc_timeless_scents_decor"
+  },
+  "contact": {
+    "email": "luckicharmheather@gmail.com",
+    "whatsAppNumberInternational": "+2348108693787"
+  },
+  "shipping": {
+    "leadTime": "2\u20135 business days (Lagos) \u2022 3\u201310 business days (Nationwide)",
+    "customOrdersLeadTime": "5\u201314 business days depending on complexity"
+  },
+  "policies": {
+    "returns": "Because our pieces are handmade, we accept returns only for items received damaged. Contact us within 24 hours of delivery with photos.",
+    "care": "Keep away from direct heat/sunlight. Trim wick to 5mm. Place candles on a heat-safe tray."
+  },
+  "automation": {
+    "checkoutMode": "WhatsApp",
+    "whatsAppPrefillTemplate": "Hi Cctimeless scents&decor! I'd like to place an order:\n\n{ORDER}\n\nName: {NAME}\nAddress: {ADDRESS}\nPhone: {PHONE}\nNotes: {NOTES}\n\nThank you!"
+  },
+  "media": {
+    "heroVideo": "assets/video_teal_gold_1.mp4",
+    "showcaseVideos": [
+      "assets/video_teal_gold_1.mp4",
+      "assets/video_cobalt_1.mp4",
+      "assets/video_extra_1.mp4",
+      "assets/video_extra_2.mp4",
+      "assets/video_extra_3.mp4",
+      "assets/video_extra_4.mp4",
+      "assets/video_extra_5.mp4",
+      "assets/video_extra_6.mp4"
+    ]
+  }
+}

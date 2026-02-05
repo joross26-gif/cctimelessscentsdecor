@@ -1,0 +1,508 @@
+[
+  {
+    "id": "aqua-gold-stand",
+    "name": "Aqua\\u2011Gold Display Stand",
+    "category": "Home Decor",
+    "price": 160000,
+    "badges": [
+      "Best Seller",
+      "Gold Trim",
+      "Statement"
+    ],
+    "short": "A glossy teal statement piece with luxe gold edges\\u2014made to elevate any space instantly.",
+    "image": "assets/p32.jpg.png",
+    "gallery": [
+      "assets/teal_gold_1.jpg",
+      "assets/teal_gold_2.jpg",
+      "assets/teal_gold_3.jpg"
+    ]
+  },
+  {
+    "id": "lotus-bloom-bowl",
+    "name": "Lotus Bloom Bowl Candle",
+    "category": "Candles",
+    "price": 14000,
+    "badges": [
+      "Sculptural",
+      "Giftable"
+    ],
+    "short": "A lotus\\u2011style bowl candle designed to glow beautifully\\u2014soft, feminine, and premium.",
+    "image": "assets/lotus_face_bowls.jpg",
+    "gallery": [
+      "assets/lotus_face_bowls.jpg"
+    ]
+  },
+  {
+    "id": "goddess-face-bowl",
+    "name": "Goddess Face Bowl Candle",
+    "category": "Candles",
+    "price": 15000,
+    "badges": [
+      "Statement",
+      "Feminine"
+    ],
+    "short": "A bold face silhouette bowl candle\\u2014made for warm golden lighting and premium interiors.",
+    "image": "assets/lotus_face_bowls.jpg",
+    "gallery": [
+      "assets/lotus_face_bowls.jpg"
+    ]
+  },
+  {
+    "id": "classic-bust-candle",
+    "name": "Classic Bust Candle",
+    "category": "Candles",
+    "price": 11000,
+    "badges": [
+      "Sculptural",
+      "Minimal"
+    ],
+    "short": "A classic feminine bust candle\\u2014soft details, premium finish, timeless presence.",
+    "image": "assets/bust_candle.jpg",
+    "gallery": [
+      "assets/bust_candle.jpg"
+    ]
+  },
+  {
+    "id": "couple-sculpture-candle",
+    "name": "Couple Sculpture Candle",
+    "category": "Candles",
+    "price": 12000,
+    "badges": [
+      "Romantic",
+      "Giftable"
+    ],
+    "short": "A modern couple sculpture candle\\u2014perfect for weddings, anniversaries, and soft luxury gifting.",
+    "image": "assets/couple_candle.jpg",
+    "gallery": [
+      "assets/couple_candle.jpg"
+    ]
+  },
+  {
+    "id": "bubble-cube-candle",
+    "name": "Bubble Cube Candle",
+    "category": "Candles",
+    "price": 9000,
+    "badges": [
+      "Trend",
+      "Minimal"
+    ],
+    "short": "A clean bubble cube candle\\u2014minimal, modern, and made to style on trays and book stacks.",
+    "image": "assets/bubble_candle.jpg",
+    "gallery": [
+      "assets/bubble_candle.jpg"
+    ]
+  },
+  {
+    "id": "pearl-tray",
+    "name": "Pearl Beaded Trinket Tray",
+    "category": "Home Decor",
+    "price": 12000,
+    "badges": [
+      "Jewelry",
+      "Best Seller"
+    ],
+    "short": "A pearl\\u2011edge tray made for jewelry and essentials\\u2014clean luxury, always.",
+    "image": "assets/beaded_tray.jpg",
+    "gallery": [
+      "assets/beaded_tray.jpg"
+    ]
+  },
+  {
+    "id": "cosmic-collection",
+    "name": "Cosmic Collection Decor Set",
+    "category": "Home Decor",
+    "price": 20000,
+    "badges": [
+      "Limited",
+      "Set"
+    ],
+    "short": "A playful premium set inspired by space\\u2014perfect for shelves, gifting, and statement decor.",
+    "image": "assets/p30.jpg.png",
+    "gallery": [
+      "assets/space_set.jpg"
+    ]
+  },
+  {
+    "id": "bubble-cube-3d-deco",
+    "name": "Bubble Cube 3d deco ",
+    "category": "home decor",
+    "price": 10000,
+    "badges": [
+      "Best Seller",
+      "Minimal"
+    ],
+    "short": "A sculptural bubble cube 3d with a smooth matte finish, designed for modern and minimalist interiors.",
+    "image": "assets/p01.jpg.png",
+    "gallery": [
+      "assets/p01.jpg.png"
+    ]
+  },
+  {
+    "id": "round-tray-collection",
+    "name": "Round Minimal Tray",
+    "category": "Home Decor",
+    "price": 7000,
+    "badges": [
+      "Handmade",
+      "Decor"
+    ],
+    "short": "A clean round tray handcrafted with a soft matte texture, perfect for candles, jewelry, or daily essentials.",
+    "image": "assets/p02.jpg.png",
+    "gallery": [
+      "assets/p02.jpg.png"
+    ]
+  },
+  {
+    "id": "organic-pebble-tray",
+    "name": "Organic Pebble Tray",
+    "category": "Home Decor",
+    "price": 15000,
+    "badges": [
+      "Organic Shape",
+      "Modern"
+    ],
+    "short": "An organically shaped decorative tray inspired by natural forms, bringing softness and elegance to any space.",
+    "image": "assets/p03.jpg.png",
+    "gallery": [
+      "assets/p03.jpg.png"
+    ]
+  },
+  {
+    "id": "female-bust-",
+    "name": "Female Bust Sculpture",
+    "category": "home decor",
+    "price": 10000,
+    "badges": [
+      "Statement",
+      "Sculptural"
+    ],
+    "short": "A bold female torso  designed as an artistic statement piece for refined and modern interiors.",
+    "image": "assets/p04.jpg.png",
+    "gallery": [
+      "assets/p04.jpg.png"
+    ]
+  },
+  {
+    "id": "beaded-edge-tray",
+    "name": "Beaded Edge Tray",
+    "category": "Home Decor",
+    "price": 8000,
+    "badges": [
+      "Luxury",
+      "Best Seller"
+    ],
+    "short": "A decorative tray featuring a beaded edge design, ideal for styling perfumes, candles, or jewelry.",
+    "image": "assets/p05.jpg.png",
+    "gallery": [
+      "assets/p05.jpg.png"
+    ]
+  },
+  {
+    "id": "classic-goddess-bust",
+    "name": "Classic Goddess Bust",
+    "category": "Home Decor",
+    "price": 15000,
+    "badges": [
+      "Luxury",
+      "Art Piece"
+    ],
+    "short": "A timeless goddess bust sculpture with a refined matte finish, inspired by classical European art.",
+    "image": "assets/p06.jpg.png",
+    "gallery": [
+      "assets/p06.jpg.png"
+    ]
+  },
+  {
+    "id": "heart-hands-candle",
+    "name": "Heart in Hands Candle",
+    "category": "Candles",
+    "price": 25000,
+    "badges": [
+      "Romantic",
+      "Giftable"
+    ],
+    "short": "A romantic heart-shaped candle held by sculpted hands, perfect for gifting and emotional moments.",
+    "image": "assets/p07.jpg.png",
+    "gallery": [
+      "assets/p07.jpg.png"
+    ]
+  },
+  {
+    "id": "dual-tone-glass-candle",
+    "name": "Dual Tone Glass Candle",
+    "category": "Candles",
+    "price": 17000,
+    "badges": [
+      "Premium",
+      "Modern"
+    ],
+    "short": "A modern glass candle featuring a striking dual-tone wax design with a warm, elegant glow.",
+    "image": "assets/p08.jpg.png",
+    "gallery": [
+      "assets/p08.jpg.png"
+    ]
+  },
+  {
+    "id": "carousel-horse-candle",
+    "name": "Golden Horse Carousel Candle",
+    "category": "Candles",
+    "price": 30000,
+    "badges": [
+      "Luxury",
+      "Limited Edition"
+    ],
+    "short": "A luxury ceramic candle adorned with golden horse details, inspired by classic carousel designs.",
+    "image": "assets/p09.jpg.png",
+    "gallery": [
+      "assets/p09.jpg.png"
+    ]
+  },
+  {
+    "id": "christmas-tree-candle",
+    "name": "Christmas Tree Candle",
+    "category": "Seasonal",
+    "price": 13000,
+    "badges": [
+      "Seasonal",
+      "Holiday"
+    ],
+    "short": "A festive Christmas three-shaped candle designed to bring warmth and elegance to holiday decor.",
+    "image": "assets/p10.jpg.png",
+    "gallery": [
+      "assets/p10.jpg.png"
+    ]
+  },
+  {
+    "id": "Crimson Sculpted Candle",
+    "name": "Crimson Sculpted Candle",
+    "category": "Candles",
+    "price": 20000,
+    "badges": [
+      "Handmade",
+      "Sculptural"
+    ],
+    "short": "A bold sculpted candle with flowing organic textures, designed as a striking artistic centerpiece.",
+    "image": "assets/p11.jpg.png",
+    "gallery": [
+      "assets/p11.jpg.png"
+    ]
+  },
+  {
+    "id": "Velvet Flame Column",
+    "name": "Velvet Flame Column",
+    "category": "Candles",
+    "price": 25000,
+    "badges": [
+      "Luxury",
+      "Statement"
+    ],
+    "short": "A richly textured column candle that brings warmth, depth, and sculptural elegance to any space.",
+    "image": "assets/p12.jpg.png",
+    "gallery": [
+      "assets/p12.jpg.png"
+    ]
+  },
+  {
+    "id": "Lotus Shell Bowl Candle",
+    "name": "Lotus Shell Bowl Candle",
+    "category": "Candles",
+    "price": 15000,
+    "badges": [
+      "Decorative",
+      "Artisan"
+    ],
+    "short": "A refined lotus-inspired bowl candle adorned with delicate details for serene, elevated decor.",
+    "image": "assets/p14.jpg.png",
+    "gallery": [
+      "assets/p14.jpg.png"
+    ]
+  },
+  {
+    "id": "Ocean Pearl Shell Candle",
+    "name": "Ocean Pearl Shell Candle",
+    "category": "Candles",
+    "price": 25000,
+    "badges": [
+      "Luxury",
+      "Statement"
+    ],
+    "short": "A premium shell-shaped candle filled with intricate elements, inspired by coastal elegance.",
+    "image": "assets/p15.jpg.png",
+    "gallery": [
+      "assets/p15.jpg.png"
+    ]
+  },
+  {
+    "id": "Embrace Sculpture Candle",
+    "name": "Embrace Sculpture Candle",
+    "category": "Candles",
+    "price": 20000,
+    "badges": [
+      "Romantic",
+      "Sculptural"
+    ],
+    "short": "A minimalist sculpture candle capturing intimacy and connection through soft flowing forms.",
+    "image": "assets/p16.jpg.png",
+    "gallery": [
+      "assets/p16.jpg.png"
+    ]
+  },
+  {
+    "id": "Abstract Embrace Tall Candle",
+    "name": "Abstract Embrace Tall Candle",
+    "category": "Candles",
+    "price": 15000,
+    "badges": [
+      "Modern",
+      "Art Piece"
+    ],
+    "short": "A tall abstract candle with smooth contours, designed to elevate modern interiors.",
+    "image": "assets/p17.jpg.png",
+    "gallery": [
+      "assets/p17.jpg.png"
+    ]
+  },
+  {
+    "id": "Golden Swan Sculpture",
+    "name": "Golden Swan Sculpture",
+    "category": "Home Decor",
+    "price": 15000,
+    "badges": [
+      "Luxury",
+      "Statement"
+    ],
+    "short": "A refined swan sculpture with a luminous gold finish, designed to stand out as a decor icon.",
+    "image": "assets/p19.jpg.png",
+    "gallery": [
+      "assets/p19.jpg.png"
+    ]
+  },
+  {
+    "id": "blind-goddess-bust",
+    "name": "Blind Goddess Bust Candle",
+    "category": "Candles",
+    "price": 15000,
+    "badges": [
+      "Sculptural",
+      "Feminine",
+      "Statement"
+    ],
+    "short": "A serene feminine bust candle with floral blindfold details, crafted for soft, elegant interiors.",
+    "image": "assets/p20.jpg.png",
+    "gallery": [
+      "assets/p20.jpg.png"
+    ]
+  },
+  {
+    "id": "enchanted-cottage-candle",
+    "name": "Enchanted Cottage Candle",
+    "category": "Candles",
+    "price": 18000,
+    "badges": [
+      "Whimsical",
+      "Handmade",
+      "Decorative"
+    ],
+    "short": "A fairytale-inspired cottage candle featuring intricate textures and storybook charm.",
+    "image": "assets/p21.jpg.png",
+    "gallery": [
+      "assets/p21.jpg.png"
+    ]
+  },
+  {
+    "id": "heart-pearl-trays-set",
+    "name": "Heart Pearl Tray Set",
+    "category": "Home Decor",
+    "price": 7000,
+    "badges": [
+      "Best Seller",
+      "Giftable",
+      "Minimal"
+    ],
+    "short": "A trio of heart-shaped trays with pearl edges, perfect for jewelry and everyday essentials.",
+    "image": "assets/p22.jpg.png",
+    "gallery": [
+      "assets/p22.jpg.png"
+    ]
+  },
+  {
+    "id": "swan-sculpture-decor",
+    "name": "Elegant Swan Sculpture",
+    "category": "Home Decor",
+    "price": 25000,
+    "badges": [
+      "Luxury",
+      "Statement",
+      "Art Piece"
+    ],
+    "short": "A graceful white swan sculpture accented with subtle blue shimmer for refined interiors.",
+    "image": "assets/p24.jpg.png",
+    "gallery": [
+      "assets/p24.jpg.png"
+    ]
+  },
+  {
+    "id": "gothic-skull-candle",
+    "name": "Gothic Skull Candle",
+    "category": "Candles",
+    "price": 20000,
+    "badges": [
+      "Bold",
+      "Dark Luxe",
+      "Statement"
+    ],
+    "short": "A dramatic skull candle with sculpted hands, designed for bold and artistic spaces.",
+    "image": "assets/p25.jpg.png",
+    "gallery": [
+      "assets/p25.jpg.png"
+    ]
+  },
+  {
+    "id": "stacked-pebble-vase-sunset",
+    "name": "Stacked Pebble Vase – Sunset Edition",
+    "category": "Home Decor",
+    "price": 9000,
+    "badges": [
+      "Lifestyle",
+      "Decorative",
+      "Warm Tones"
+    ],
+    "short": "A sunset-toned pebble vase styled for warm outdoor and lifestyle-inspired settings.",
+    "image": "assets/p27.jpg.png",
+    "gallery": [
+      "assets/p27.jpg.png"
+    ]
+  },
+  {
+    "id": "cosmic-figurine-set",
+    "name": "Cosmic Explorer Figurine Set",
+    "category": "Home Decor",
+    "price": 35000,
+    "badges": [
+      "Limited Set",
+      "Art Decor",
+      "Playful"
+    ],
+    "short": "A sculptural space-inspired decor set designed to spark imagination and conversation.",
+    "image": "assets/p30.jpg.png",
+    "gallery": [
+      "assets/p30.jpg.png"
+    ]
+  },
+  {
+    "id": "ribbed-blush-ceramic-vase",
+    "name": "Ribbed Blush Ceramic Vase",
+    "category": "Home Decor",
+    "price": 10000,
+    "badges": [
+      "Minimal",
+      "Scandinavian",
+      "Best Seller"
+    ],
+    "short": "A soft blush ribbed ceramic vase designed for modern interiors, perfect for eucalyptus stems and calm, refined spaces.",
+    "image": "assets/p31.jpg.png",
+    "gallery": [
+      "assets/p31.jpg.png"
+    ]
+  }
+]

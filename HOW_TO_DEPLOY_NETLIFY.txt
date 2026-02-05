@@ -1,0 +1,13 @@
+Cctimeless scents&decor — Pink/Gold Pro Site (Netlify Ready)
+
+FASTEST METHOD (No code):
+1) Unzip this package.
+2) Go to https://app.netlify.com/drop
+3) Drag & drop the FOLDER that contains index.html.
+4) Netlify gives you a live link instantly.
+
+Edit content later:
+- settings.json = texts + WhatsApp + IG/TikTok + email
+- products.json = products + prices + categories
+- assets/ = photos + videos
+Then redeploy by dragging the folder again.
