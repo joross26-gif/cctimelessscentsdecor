@@ -236,7 +236,20 @@ position:relative;min-height:74vh;display:grid;align-items:center}
 .faq p{margin:8px 0 0;color:var(--muted)}
 
 .contact-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
-.contact-card .row{display:flex;gap:10px;margin-top:12px}
+.contact-card .row{
+  display:flex;
+  flex-direction:column;   /* empile au lieu de côte à côte */
+  align-items:flex-start;
+  gap:8px;
+  margin-top:12px;
+}
+.contact-card .row .muted,
+.contact-card .row a:not(.btn){
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+
 
 label{display:grid;gap:6px;margin-top:10px}
 input,textarea{
@@ -451,3 +464,32 @@ header, .header, .site-header, nav{
 @media (max-width: 520px){
   .hero-logo{ height: 78px; }
 }
+/* Fix: contact cards text overlapping buttons */
+.contact-card,
+.contact-box,
+.card.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;              /* espace entre les lignes */
+}
+
+.contact-card p,
+.contact-box p,
+.card.contact p,
+.contact-card .muted,
+.contact-box .muted,
+.card.contact .muted {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.contact-card a.btn,
+.contact-box a.btn,
+.card.contact a.btn,
+.contact-card button,
+.contact-box button,
+.card.contact button {
+  align-self: flex-start;
+  margin-top: 6px;
+}
+
