@@ -1,7 +1,7 @@
 [
   {
     "id": "aqua-gold-stand",
-    "name": "Aqua\\u2011Gold Display Stand",
+    "name": "Aqua Gold Display Stand",
     "category": "Home Decor",
     "price": 160000,
     "badges": [
@@ -9,7 +9,7 @@
       "Gold Trim",
       "Statement"
     ],
-    "short": "A glossy teal statement piece with luxe gold edges\\u2014made to elevate any space instantly.",
+    "short": "A glossy teal statement piece with luxe gold edges made to elevate any space instantly.",
     "image": "assets/p32.jpg.png",
     "gallery": [
       "assets/teal_gold_1.jpg",
@@ -26,7 +26,7 @@
       "Sculptural",
       "Giftable"
     ],
-    "short": "A lotus\\u2011style bowl candle designed to glow beautifully\\u2014soft, feminine, and premium.",
+    "short": "A lotus style bowl candle designed to glow beautifully soft, feminine, and premium.",
     "image": "assets/lotus_face_bowls.jpg",
     "gallery": [
       "assets/lotus_face_bowls.jpg"
@@ -41,7 +41,7 @@
       "Statement",
       "Feminine"
     ],
-    "short": "A bold face silhouette bowl candle\\u2014made for warm golden lighting and premium interiors.",
+    "short": "A bold face silhouette bowl candle made for warm golden lighting and premium interiors.",
     "image": "assets/lotus_face_bowls.jpg",
     "gallery": [
       "assets/lotus_face_bowls.jpg"
@@ -56,7 +56,7 @@
       "Sculptural",
       "Minimal"
     ],
-    "short": "A classic feminine bust candle\\u2014soft details, premium finish, timeless presence.",
+    "short": "A classic feminine bust candle soft details, premium finish, timeless presence.",
     "image": "assets/bust_candle.jpg",
     "gallery": [
       "assets/bust_candle.jpg"
@@ -71,7 +71,7 @@
       "Romantic",
       "Giftable"
     ],
-    "short": "A modern couple sculpture candle\\u2014perfect for weddings, anniversaries, and soft luxury gifting.",
+    "short": "A modern couple sculpture candle perfect for weddings, anniversaries, and soft luxury gifting.",
     "image": "assets/couple_candle.jpg",
     "gallery": [
       "assets/couple_candle.jpg"
@@ -86,7 +86,7 @@
       "Trend",
       "Minimal"
     ],
-    "short": "A clean bubble cube candle\\u2014minimal, modern, and made to style on trays and book stacks.",
+    "short": "A clean bubble cube candle minimal, modern, and made to style on trays and book stacks.",
     "image": "assets/bubble_candle.jpg",
     "gallery": [
       "assets/bubble_candle.jpg"
@@ -101,7 +101,7 @@
       "Jewelry",
       "Best Seller"
     ],
-    "short": "A pearl\\u2011edge tray made for jewelry and essentials\\u2014clean luxury, always.",
+    "short": "A pearl edge tray made for jewelry and essentials clean luxury, always.",
     "image": "assets/beaded_tray.jpg",
     "gallery": [
       "assets/beaded_tray.jpg"
@@ -116,7 +116,7 @@
       "Limited",
       "Set"
     ],
-    "short": "A playful premium set inspired by space\\u2014perfect for shelves, gifting, and statement decor.",
+    "short": "A playful premium set inspired by space perfect for shelves, gifting, and statement decor.",
     "image": "assets/p30.jpg.png",
     "gallery": [
       "assets/space_set.jpg"
