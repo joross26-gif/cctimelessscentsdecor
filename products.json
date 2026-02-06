@@ -1,5 +1,5 @@
 [
-  {
+ 
     "id": "aqua-gold-stand",
     "name": "Aqua Gold Display Stand",
     "category": "Home Decor",
@@ -17,109 +17,36 @@
       "assets/teal_gold_3.jpg"
     ]
   },
-  {
-    "id": "lotus-bloom-bowl",
-    "name": "Lotus Bloom Bowl Candle",
-    "category": "Candles",
-    "price": 14000,
+   {
+    "id": "swan-sculpture-decor",
+    "name": "Elegant Swan Sculpture",
+    "category": "Home Decor",
+    "price": 25000,
     "badges": [
-      "Sculptural",
-      "Giftable"
-    ],
-    "short": "A lotus style bowl candle designed to glow beautifully soft, feminine, and premium.",
-    "image": "assets/lotus_face_bowls.jpg",
-    "gallery": [
-      "assets/lotus_face_bowls.jpg"
-    ]
-  },
-  {
-    "id": "goddess-face-bowl",
-    "name": "Goddess Face Bowl Candle",
-    "category": "Candles",
-    "price": 15000,
-    "badges": [
+      "Luxury",
       "Statement",
-      "Feminine"
+      "Art Piece"
     ],
-    "short": "A bold face silhouette bowl candle made for warm golden lighting and premium interiors.",
-    "image": "assets/lotus_face_bowls.jpg",
+    "short": "A graceful white swan sculpture accented with subtle blue shimmer for refined interiors.",
+    "image": "assets/p24.jpg.png",
     "gallery": [
-      "assets/lotus_face_bowls.jpg"
+      "assets/p24.jpg.png"
     ]
   },
   {
-    "id": "classic-bust-candle",
-    "name": "Classic Bust Candle",
-    "category": "Candles",
-    "price": 11000,
-    "badges": [
-      "Sculptural",
-      "Minimal"
-    ],
-    "short": "A classic feminine bust candle soft details, premium finish, timeless presence.",
-    "image": "assets/bust_candle.jpg",
-    "gallery": [
-      "assets/bust_candle.jpg"
-    ]
-  },
-  {
-    "id": "couple-sculpture-candle",
-    "name": "Couple Sculpture Candle",
-    "category": "Candles",
-    "price": 12000,
-    "badges": [
-      "Romantic",
-      "Giftable"
-    ],
-    "short": "A modern couple sculpture candle perfect for weddings, anniversaries, and soft luxury gifting.",
-    "image": "assets/couple_candle.jpg",
-    "gallery": [
-      "assets/couple_candle.jpg"
-    ]
-  },
-  {
-    "id": "bubble-cube-candle",
-    "name": "Bubble Cube Candle",
-    "category": "Candles",
-    "price": 9000,
-    "badges": [
-      "Trend",
-      "Minimal"
-    ],
-    "short": "A clean bubble cube candle minimal, modern, and made to style on trays and book stacks.",
-    "image": "assets/bubble_candle.jpg",
-    "gallery": [
-      "assets/bubble_candle.jpg"
-    ]
-  },
-  {
-    "id": "pearl-tray",
-    "name": "Pearl Beaded Trinket Tray",
+     "id": "cosmic-figurine-set",
+    "name": "Cosmic Explorer Figurine Set",
     "category": "Home Decor",
-    "price": 12000,
+    "price": 35000,
     "badges": [
-      "Jewelry",
-      "Best Seller"
+      "Limited Set",
+      "Art Decor",
+      "Playful"
     ],
-    "short": "A pearl edge tray made for jewelry and essentials clean luxury, always.",
-    "image": "assets/beaded_tray.jpg",
-    "gallery": [
-      "assets/beaded_tray.jpg"
-    ]
-  },
-  {
-    "id": "cosmic-collection",
-    "name": "Cosmic Collection Decor Set",
-    "category": "Home Decor",
-    "price": 20000,
-    "badges": [
-      "Limited",
-      "Set"
-    ],
-    "short": "A playful premium set inspired by space perfect for shelves, gifting, and statement decor.",
+    "short": "A sculptural space-inspired decor set designed to spark imagination and conversation.",
     "image": "assets/p30.jpg.png",
     "gallery": [
-      "assets/space_set.jpg"
+      "assets/p30.jpg.png"
     ]
   },
   {
