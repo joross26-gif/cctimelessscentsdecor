@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Instagram</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial; margin:0; background:#FFF6FA; color:#1C1B1B;}
+    .wrap{max-width:520px; margin:0 auto; padding:24px;}
+    .card{background:#fff; border:1px solid rgba(0,0,0,.08); border-radius:16px; padding:18px; box-shadow:0 10px 30px rgba(0,0,0,.06);}
+    h1{font-size:20px; margin:0 0 10px;}
+    p{margin:0 0 14px; opacity:.8; line-height:1.35;}
+    .btn{display:block; text-align:center; padding:14px; border-radius:12px; text-decoration:none; font-weight:700; margin:10px 0;}
+    .primary{background:#1C1B1B; color:#fff;}
+    .ghost{border:1px solid rgba(0,0,0,.14); color:#1C1B1B; background:#fff;}
+    .small{font-size:12px; opacity:.7; margin-top:10px;}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>Instagram</h1>
+      <p>Sur Android, Instagram ouvre parfois la page d’accueil au lieu du profil. Choisis une option :</p>
+
+      <!-- Option 1: navigateur (FIABLE) -->
+      <a class="btn primary"
+         href="https://www.instagram.com/cc_timeless_scents__decor/"
+         target="_blank" rel="noopener noreferrer">
+        Ouvrir dans le navigateur
+      </a>
+
+      <!-- Option 2: app (peut bug, mais on la laisse) -->
+      <a class="btn ghost"
+         href="intent://instagram.com/_u/cc_timeless_scents__decor#Intent;package=com.instagram.android;scheme=https;end">
+        Ouvrir dans l’app Instagram
+      </a>
+
+      <div class="small">
+        Si “Ouvrir dans l’app” t’envoie à l’accueil, utilise “Ouvrir dans le navigateur”.
+      </div>
+    </div>
+  </div>
+</body>
+</html>
