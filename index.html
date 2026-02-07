@@ -488,19 +488,36 @@
 
   <script src="app.js"></script> 
 <script>
-  const ig = document.getElementById("btn-ig");
+  (function () {
+    const username = "cc_timeless_scents__decor";
+    const btn = document.getElementById("btn-ig");
+    if (!btn) return;
 
-  if (ig) {
-    if (/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-      // Mobile → ouvre l'app Instagram directement sur le bon compte
-      ig.href = "instagram://user?username=cc_timeless_scents__decor/";
-    } else {
-      // Desktop → ouvre le profil web
-      ig.href = "https://www.instagram.com/cc_timeless_scents__decor/";
-      ig.target = "_blank";
-      ig.rel = "noopener noreferrer";
-    }
-  }
+    const isAndroid = /Android/i.test(navigator.userAgent);
+    const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+    const webUrl = `https://www.instagram.com/${username}/`;
+    const androidIntent = `intent://instagram.com/_u/${username}#Intent;package=com.instagram.android;scheme=https;end`;
+    const iosApp = `instagram://user?username=${username}`;
+
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+
+      if (isAndroid) {
+        window.location.href = androidIntent;
+        setTimeout(() => (window.location.href = webUrl), 900);
+        return;
+      }
+
+      if (isIOS) {
+        window.location.href = iosApp;
+        setTimeout(() => (window.location.href = webUrl), 900);
+        return;
+      }
+
+      window.open(webUrl, "_blank", "noopener,noreferrer");
+    });
+  })();
 </script>
 
 </body>
