@@ -1,5 +1,5 @@
 {
-  "brandName": "Cctimeless scents&decor",
+  "brandName": "CCtimeless scents&decor",
   "tagline": "Scented. Styled. Timeless.",
   "shortBio": "Luxury sculptural candles and clean home decor pieces handcrafted in Lagos for men and  women who love statement interiors.",
   "location": "Lagos, Nigeria",
@@ -27,7 +27,7 @@
   },
   "automation": {
     "checkoutMode": "WhatsApp",
-    "whatsAppPrefillTemplate": "Hi Cctimeless scents&decor! I'd like to place an order:\n\n{ORDER}\n\nName: {NAME}\nAddress: {ADDRESS}\nPhone: {PHONE}\nNotes: {NOTES}\n\nThank you!"
+    "whatsAppPrefillTemplate": "Hi CCtimeless scents&decor! I'd like to place an order:\n\n{ORDER}\n\nName: {NAME}\nAddress: {ADDRESS}\nPhone: {PHONE}\nNotes: {NOTES}\n\nThank you!"
   },
   "media": {
     "heroVideo": "assets/video_teal_gold_1.mp4",
