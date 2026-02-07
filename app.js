@@ -309,19 +309,6 @@ async function init(){
   $("#topbar-tt").href = settings.social.tiktokUrl;
   $("#btn-ig").href = settings.social.instagramUrl;
   $("#btn-tt").href = settings.social.tiktokUrl;
-  function setLink(id, url) {
-  const el = $(id);
-  if (!el) return;
-  if (!url || url === "#") return; // garde le lien existant si vide
-  el.href = url;
-  el.target = "_blank";
-  el.rel = "noopener noreferrer";
-}
-
-setLink("#topbar-ig", settings.social.instagramUrl);
-setLink("#btn-ig", settings.social.instagramUrl);
-setLink("#topbar-tt", settings.social.tiktokUrl);
-setLink("#btn-tt", settings.social.tiktokUrl);
 
 
   const waText = "Hi Cctimeless scents&decor! I'd like to order.";
