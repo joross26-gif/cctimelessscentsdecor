@@ -286,12 +286,12 @@ function bindUI(){
     const name = (fd.get("name")||"").toString().trim();
     const phone = (fd.get("phone")||"").toString().trim();
     const msg = (fd.get("message")||"").toString().trim();
-    const text = `Hi Cctimeless scents&decor!\n\nName: ${name}\nPhone: ${phone||"-"}\nMessage: ${msg}`;
+    const text = `Hi CCtimeless scents&decor!\n\nName: ${name}\nPhone: ${phone||"-"}\nMessage: ${msg}`;
     window.open(whatsappLink(text), "_blank");
   });
 
   $("#btn-custom-wa").addEventListener("click", ()=>{
-    const text = "Hi Cctimeless scents&decor! I want a custom order. Here is my idea:\n\n- Item(s):\n- Quantity:\n- Colors/Theme:\n- Delivery date:";
+    const text = "Hi CCtimeless scents&decor! I want a custom order. Here is my idea:\n\n- Item(s):\n- Quantity:\n- Colors/Theme:\n- Delivery date:";
     window.open(whatsappLink(text), "_blank");
   });
 }
