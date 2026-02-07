@@ -487,38 +487,5 @@
   </div>
 
   <script src="app.js"></script> 
-<script>
-  (function () {
-    const username = "cc_timeless_scents__decor";
-    const btn = document.getElementById("btn-ig");
-    if (!btn) return;
-
-    const isAndroid = /Android/i.test(navigator.userAgent);
-    const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
-
-    const webUrl = `https://www.instagram.com/${username}/`;
-    const androidIntent = `intent://instagram.com/_u/${username}#Intent;package=com.instagram.android;scheme=https;end`;
-    const iosApp = `instagram://user?username=${username}`;
-
-    btn.addEventListener("click", function (e) {
-      e.preventDefault();
-
-      if (isAndroid) {
-        window.location.href = androidIntent;
-        setTimeout(() => (window.location.href = webUrl), 900);
-        return;
-      }
-
-      if (isIOS) {
-        window.location.href = iosApp;
-        setTimeout(() => (window.location.href = webUrl), 900);
-        return;
-      }
-
-      window.open(webUrl, "_blank", "noopener,noreferrer");
-    });
-  })();
-</script>
-
 </body>
 </html>
