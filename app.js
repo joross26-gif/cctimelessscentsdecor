@@ -298,8 +298,8 @@ function bindUI(){
 
 async function init(){
   const [settings, products] = await Promise.all([
-    fetch("settings.json").then(r=>r.json()),
-    fetch("products.json").then(r=>r.json()),
+    fetch("/settings.json").then(r=>r.json()),
+    fetch("/products.json").then(r=>r.json()),
   ]);
   state.settings = settings;
   state.products = products;
